@@ -1,1 +1,3 @@
-About.txt
+My name is srilakshmi
+Course:Bca
+I learned about how to create repository
